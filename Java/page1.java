@@ -1,6 +1,6 @@
 import java.util.Scanner ;
 
-import javax.xml.namespace.QName;
+
 
 public class page1 {
     public static void main(String[] args)

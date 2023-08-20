@@ -21,6 +21,8 @@ public class Calculator {
         select = input.nextInt(); 
 
         // I make my calculations according to the selected transaction type.
+      
+       {
         switch(select)
         {
             case 1 : 
@@ -43,6 +45,6 @@ public class Calculator {
                 break;
 
         }
-
+       }
     }
 }

@@ -28,6 +28,6 @@ public class leapYear {
                 System.out.println("not a leap year : " + year);
             }
         }
-           
-    }
+          
+           }
 }
